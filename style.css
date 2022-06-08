@@ -1,0 +1,55 @@
+img{
+    width: 50%;
+    height: 50%;    
+}
+
+button{
+   
+    height: 50px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+    
+  
+}
+h1{
+    background-color: rgb(41, 8, 68);
+    font-size: 50px;
+    color: rgb(38, 144, 231);
+    padding:50px;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+body{
+    background-color: rgb(19, 113, 201);
+}
+
+p{
+    font-size: 50px;
+  
+}
+
+#container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+   
+}
+.img2{
+    display: flex;
+    max-width: 1500px;
+   }
+.img1{
+    display: flex;
+    max-width: 1500px;
+   
+}
+.img3{
+    display: flex; 
+    max-width: 1500px;
+}
